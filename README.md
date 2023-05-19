@@ -21,7 +21,7 @@ for this study, a dataset of US reviews of pet products was employed from the fo
 - Link to schema file for creating tables using PostGres pgAdmin
     - [challenge_schema](challenge_schema.sql)
 
-- Links to notebook files for analysis using Google Colab
+- Links to notebook files for analysis using PySpark in Google Colab
     - [Amazon_Reviews_ETL](Amazon_Reviews_ETL.ipynb)
     - [Vine_Review_Analysis](Vine_Review_Analysis.ipynb)
 
@@ -32,7 +32,8 @@ for this study, a dataset of US reviews of pet products was employed from the fo
 
 - Only 0.5% of 5-star reviews were from Vine (paid) members, while 99.5% were from non-Vine (unpaid) members. This indicates that the paid membership does not introduce any measureable bias toward Vine members. 
 
-![vine_table](/vine_table.png)
+Vine Table
+    ![vine_table](/vine_table.png)
 
 ## Summary 
 
